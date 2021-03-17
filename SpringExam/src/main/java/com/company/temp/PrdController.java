@@ -1,4 +1,4 @@
-package com.company.temp.service.impl;
+package com.company.temp;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

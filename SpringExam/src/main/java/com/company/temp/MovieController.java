@@ -1,4 +1,4 @@
-package com.company.temp.service.impl;
+package com.company.temp;
 
 import java.util.ArrayList;
 import java.util.List;
